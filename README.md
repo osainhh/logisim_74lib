@@ -6,3 +6,4 @@
 - 74259 8-Bit Addressable Latch
 - 74283 Full Adder
 - 4030 Quad XOR
+- 4040 12-Stage Binary Counter
