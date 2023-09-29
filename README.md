@@ -2,6 +2,7 @@
 
 ## 74 logic library for Logisim
 - 74125 Quad Bus Buffer
+- 74191 4-Bit Up/Down Binary Counter
 - 74257 Quad 2-Channel Multiplexer
 - 74259 8-Bit Addressable Latch
 - 74283 Full Adder
